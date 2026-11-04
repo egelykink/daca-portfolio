@@ -4,9 +4,9 @@
 
 \*\*Programm:\*\* Data Analyst Career Accelerator (DACA)
 
-\*\*Osaleja:\*\* \[Sinu Nimi]
+\*\*Osaleja:\*\* \[Egely Kink]
 
-\*\*Algus:\*\* \[Kuupäev]
+\*\*Algus:\*\* \[02.01.2026]
 
 &#x20;
 
