@@ -1,16 +1,16 @@
-\# DACA Portfoolio
+# DACA Portfoolio
 
 &#x20;
 
-\*\*Programm:\*\* Data Analyst Career Accelerator (DACA)
+**Programm:** Data Analyst Career Accelerator (DACA)
 
-\*\*Osaleja:\*\* \[Egely Kink]
+**Osaleja:** Egely Kink
 
-\*\*Algus:\*\* \[02.01.2026]
+**Algus:** 02.01.2026
 
 &#x20;
 
-\## Kirjeldus
+## Kirjeldus
 
 &#x20;
 
@@ -18,49 +18,49 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 &#x20;
 
-\## Projektid
+## Projektid
 
 &#x20;
 
-\### Week 0: Onboarding
+### Week 0: Onboarding
 
-\- GitHub seadistamine ✅
+- GitHub seadistamine ✅
 
-\- Supabase seadistamine ✅
-
-&#x20;
-
-\### Week 1: SQL Põhitõed
-
-\- (tulemas...)
+- Supabase seadistamine ✅
 
 &#x20;
 
-\### Week 2: SQL Andmete Puhastamine
+### Week 1: SQL Põhitõed
 
-\- (tulemas...)
-
-&#x20;
-
-\## Oskused
+- (tulemas...)
 
 &#x20;
 
-\- \*\*SQL:\*\* PostgreSQL, Supabase
+### Week 2: SQL Andmete Puhastamine
 
-\- \*\*Python:\*\* pandas, plotly (tulemas...)
-
-\- \*\*Visualiseerimine:\*\* Power BI / Streamlit (tulemas...)
-
-\- \*\*Tööriistad:\*\* Git, GitHub, VS Code
+- (tulemas...)
 
 &#x20;
 
-\## Kontaktc
+## Oskused
 
 &#x20;
 
-\- \*\*GitHub:\*\* \[github.com/egelykink](https://github.com/egelykink)
+- **SQL:** PostgreSQL, Supabase
 
-\- \*\*Email:\*\* egely.kink@gmail.com
+- **Python:** pandas, plotly (tulemas...)
+
+- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
+
+- **Tööriistad:** Git, GitHub, VS Code
+
+&#x20;
+
+## Kontaktc
+
+&#x20;
+
+- **GitHub:** https://github.com/egelykink
+
+- **Email:** egely.kink@gmail.com
 
