@@ -11,6 +11,6 @@ Vajalikud programmid sai installitud, kontod loodud.
 
 
 ## Grupitöö 
-Leppisime kokku, et mina teen grupi Supabase projekti. Projekti lõin vastavalt week-0 kaustas olnud juhendile. Tiimiliikmed sai lisatud owneritena juurde.
+Leppisime kokku, et mina teen grupi Supabase projekti. Projekti lõin vastavalt week-0 kaustas olnud juhendile. Tiimiliikmed sai juurde lisatud. 
 SQL query *team_members* loodud.  
 *https://github.com/ylirem/urbanstyle-Marketing-Data*
