@@ -6,7 +6,7 @@
 
 **Osaleja:** Egely Kink
 
-**Algus:** 02.01.2026
+**Algus:** 02.11.2026
 
 &#x20;
 
@@ -32,7 +32,9 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 ### Week 1: SQL Põhitõed
 
-- (tulemas...)
+- Andmebaasi loomine ✅
+  
+- Basic SQL käsklused (SELECT, FROM, WHERE, DISTINCT, COUNT) ✅
 
 &#x20;
 
