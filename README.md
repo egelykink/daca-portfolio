@@ -58,7 +58,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 &#x20;
 
-## Kontaktc
+## Kontakt
 
 &#x20;
 
