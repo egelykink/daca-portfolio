@@ -18,4 +18,3 @@ Nädal 1 iseseisva tööna keskendusin:
 
 
 
-## Grupitöö
