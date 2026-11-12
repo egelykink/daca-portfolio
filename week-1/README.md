@@ -11,7 +11,17 @@ Nädal 1 iseseisva tööna keskendusin:
 
 *Otsisin tabelist sales suurimaid ja väiksemaid müüke, duplikaate, puuduva väärtusega (NULL) ridu, piirasin tabeli ridade arvu ning panin neid kasvasse/kahanevasse järjekorda.*
 
-#
+## Grupitöö 
+
+Nädal 1 grupitöös olin rollis B. B rolli ülesandeks oli kontrollida ja analüüsida andmebaasis tabel "customer" andmeid.  
+- Kontrollisin kui palju kliente on meil andmebaasis kasutades SELECT COUNT (*) käsklust.  
+- Millised veerud on antud tabelis esindatud.
+- Vanimaid ja uusimaid registreerunud kliente kasutades MIN & MAX funktsiooni.
+- Otsisin puuduvaid kliendi andmeid.  
+
+Leidsin, et kliendiandmete tabelis on korduvaid ja puuduvaid e-maili aadresse ning veeru "city" formaat on üsna kaootiline.
+
+
 
 
 
