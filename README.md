@@ -40,6 +40,28 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 ### Week 2: SQL Andmete Puhastamine
 
+- Duplikaatide leidmine ja puhastamine GROUP BY + HAVING ja ROW_NUMBER() ✅
+
+- NULL väärtused kasutades IS NULL, COALESCE() ja NULLIF() ✅
+
+-  Andmeväljade puhastamine ja ühtlustamine kasutades CAST, TRIM(), UPPER()/LOWER() ja kuupäevafunktsioone ✅
+
+&#x20;
+
+### Week 3: 
+
+- (tulemas...)
+
+&#x20;
+
+### Week 4:
+
+- (tulemas...)
+
+&#x20;
+
+### Week 5: 
+
 - (tulemas...)
 
 &#x20;
