@@ -48,7 +48,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 &#x20;
 
-### Week 3: 
+### Week 3: SQL JOINs
 
 - (tulemas...)
 
