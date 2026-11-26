@@ -6,7 +6,7 @@
 - Kuidas muuta kaoslikud andmed usaldusväärseks ilma midagi olulist kaotamata?
 
 2. Mida tegin:  
-Kasutades Supabase keskonda ning SQL editori koos UrbanStyle andmebaasida:
+Kasutades Supabase keskkonda ning SQL editori koos UrbanStyle andmebaasida:
 - Tuvastasin ja eemaldasin duplikaate (GROUP BY, HAVING, ROW_NUMBER)
 - Leidsin ja käsitlesin NULL väärtusi (IS NULL, COALESCE, NULLIF)
 - Puhastasin ja ühtlustasin andmeväljasid (CAST, TRIM, UPPER/LOWER)
