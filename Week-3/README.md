@@ -14,7 +14,7 @@ Kasutades Supabase keskkonda ning SQL editori koos UrbanStyle andmebaasida:
 3. Tulemus
 - Otsisin ja leidsin TOP 20 klienti koos kõige müüdavamate kategooriatega (Müüdavaim kategooria: jalanõud, meeste riided ja naiste riided, Top 1 klient Tiina Pärn)
 - Leidsin, et meil on 599 nö kadunud klienti. 
-- Otsisin tooteid mida pole sales tabelis varem müüdud (12 toodet, seotud products andmebaasi duplikaatiega)
+- Otsisin tooteid mida pole sales tabelis varem müüdud (12 toodet, seotud products andmebaasi duplikaatidega)
 - 9130 rida saame siis kui vaatame müüke koos kliendibaasiga (10118 - 9130= 988 külalisostud)
 
 
